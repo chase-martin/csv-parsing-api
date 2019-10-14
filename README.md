@@ -13,3 +13,4 @@ with body as form-data and form fields:
     company: TEST123
     csv: test.csv (This is of type file, used the test file provided)
 
+![image](https://github.com/chase-martin/csv-parsing-api/blob/master/testing-api.png?raw=true)
