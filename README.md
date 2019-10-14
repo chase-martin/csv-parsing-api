@@ -3,7 +3,7 @@ Sample node API to parse a csv file with configurable columns. Uses micro as a l
 
 ### Start
 ```
-npm npm
+npm install
 npm run start
 ```
 
