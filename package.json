@@ -1,0 +1,19 @@
+{
+  "name": "csv-parsing-api",
+  "version": "1.0.0",
+  "description": "Node API for CSV parsing from file via web form.",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chase Martin",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "formidable": "^1.2.1",
+    "micro": "^9.3.4",
+    "mongoose": "^5.7.5"
+  }
+}
